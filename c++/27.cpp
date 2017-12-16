@@ -1,11 +1,3 @@
-//
-//  2.7cpp
-//  c++
-//
-//  Created by zack on 2017/11/13.
-//  Copyright © 2017年 zack. All rights reserved.
-//
-
 #include <iostream>
 using namespace std;
 
